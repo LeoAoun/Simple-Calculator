@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Calculator</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div id="all">
+    <h1>Simple Calculator</h1>
+    
+    <input id="n1" type="number" placeholder="Enter a number">
+        <br>
+    <select name="" id="selector">
+        <option value="Soma">+</option>
+        <option value="Subtração">-</option>
+        <option value="Multiplicação">x</option>
+        <option value="Divisão">/</option>
+        <option value="Potenciação">^</option>
+        <option value="Radiciação">√</option>
+    </select>
+    <br>
+
+    <input id="n2" type="number" placeholder="Enter a number">
+
+    <input onclick= "calc()" id="button" type="submit" value="Calculate">
+    <h3 id="resultado"></h3>
+    <a href="https://github.com/LeoAoun" id="credits" target="_blank">Made By: Leo_Aoun</a>
+    </div>    
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
