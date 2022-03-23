@@ -1,6 +1,7 @@
 # Simple-Calculator
 <p> <strong>Pt-BR: </strong> Meu primeiro projeto mesclando HTML, CSS e JavaScript, portanto o código é bem simples </p>
 <p> <strong>En: </strong>My first project mixing HTML, CSS and JavaScript, so the code is very simple</p>
+<p > <strong>View: </strong> <a href="https://leoaoun.github.io/Template-Gardening-Services-Website/" target="_blank"> Click Here</p>
 <br>
 <div align="center">
   
