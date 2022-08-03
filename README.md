@@ -4,7 +4,7 @@
 <p > <strong>View: </strong> <a href="https://leoaoun.github.io/Simple-Calculator/" target="_blank"> Click Here</p>
 <br>
 <div align="center">
-  
-  ![Simple-Calc-Video](https://user-images.githubusercontent.com/100950151/159730257-1593663d-9114-40ef-a633-9879e87c489b.gif)
-  
+ 
+  ![Simple-Calculator](https://user-images.githubusercontent.com/100950151/182730912-876c0bb1-622f-4fc3-9ddc-52990a465f49.gif)
+
 </div>
