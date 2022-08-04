@@ -5,6 +5,6 @@
 <br>
 <div align="center">
  
-  ![Simple-Calculator](https://user-images.githubusercontent.com/100950151/182730912-876c0bb1-622f-4fc3-9ddc-52990a465f49.gif)
+![Simple-Calculator](https://user-images.githubusercontent.com/100950151/182889553-955fceb0-ef33-4f8f-af41-8b44c9fb5e2a.gif)
 
 </div>
